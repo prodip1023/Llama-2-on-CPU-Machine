@@ -37,3 +37,5 @@ llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 ```
 
+## References:
+1. https://replicate.com/meta/llama-2-7b-chat?input=python
